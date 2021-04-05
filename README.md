@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lpalmarucci
+- 👀 I’m interested in all that concerc IT
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on something cool!
