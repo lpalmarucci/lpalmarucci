@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lpalmarucci
-- 👀 I’m interested in all that concerc IT
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in all that concern IT
+- 🌱 I’m currently focusing on React.js, NextJS and Redux
 - 💞️ I’m looking to collaborate on something cool!
